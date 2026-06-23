@@ -185,16 +185,16 @@ export const AddTransactionForm: React.FC<AddTransactionFormProps> = ({
           onChange={handleInputChange}
           className="w-full"
         >
-          <option value="2026-01">Dec '25</option>
-          <option value="2026-01">Jan '26</option>
-          <option value="2026-02">Feb '26</option>
-          <option value="2026-03">Mar '26</option>
-          <option value="2026-04">Apr '26</option>
-          <option value="2026-05">May '26</option>
-          <option value="2026-06">Jun '26</option>
-          <option value="2026-07">Jul '26</option>
-          <option value="2026-08">Aug '26</option>
-          <option value="2026-09">Sep '26</option>
+          <option value="2026-01">December 2025</option>
+          <option value="2026-01">January 2026</option>
+          <option value="2026-02">February 2026</option>
+          <option value="2026-03">March 2026</option>
+          <option value="2026-04">April 2026</option>
+          <option value="2026-05">May 2026</option>
+          <option value="2026-06">June 2026</option>
+          <option value="2026-07">July 2026</option>
+          <option value="2026-08">August 2026</option>
+          <option value="2026-09">September 2026</option>
         </Select>
 
         <Button
